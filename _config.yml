@@ -1,0 +1,34 @@
+title: Neurodiversity-Affirming Clinical Knowledge Base
+description: A comprehensive knowledge base of clinical insights for neurodiversity-affirming therapy
+theme: jekyll-theme-primer
+
+# Exclude these files from being processed by Jekyll
+exclude:
+  - templates/
+  - .github/
+  - CONTRIBUTING.md
+  - .gitignore
+  - knowledge-base/
+  - awaiting-analysis/
+
+# Set permalink structure
+permalink: pretty
+
+# Configure dates
+future: false
+
+# Configure markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Enable plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+
+# Configure relative links plugin
+relative_links:
+  enabled: true
+  collections: true

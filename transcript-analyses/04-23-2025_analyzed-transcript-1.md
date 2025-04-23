@@ -1,6 +1,6 @@
 ---
-title: "[TITLE OF ANALYSIS]"
-date: 2025-01-01
+title: "Example Analysis Template"
+date: 2025-04-23
 client_type: 
   - adult
 presenting_issue:
