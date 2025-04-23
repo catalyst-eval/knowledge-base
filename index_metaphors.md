@@ -9,12 +9,15 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 - [cul-de-sac](#cul-de-sac)
 - [dialectical-pairs](#dialectical-pairs)
 - [energy-battery](#energy-battery)
+- [four-f-framework](#four-f-framework)
 - [gateway-prompt](#gateway-prompt)
+- [hide-and-seek](#hide-and-seek)
 - [hyper-to-hypo](#hyper-to-hypo)
 - [ice-pick-on-slope](#ice-pick-on-slope)
 - [moving-target](#moving-target)
 - [one-percent-adjustments](#one-percent-adjustments)
 - [operating-system-mode](#operating-system-mode)
+- [recovery-matrix](#recovery-matrix)
 - [spoon-theory](#spoon-theory)
 - [tropism-attachment-matrix](#tropism-attachment-matrix)
 - [tropism-model](#tropism-model)
@@ -40,9 +43,17 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
+## four-f-framework
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
 ## gateway-prompt
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
+
+## hide-and-seek
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## hyper-to-hypo
 
@@ -63,6 +74,10 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 ## operating-system-mode
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
+
+## recovery-matrix
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## spoon-theory
 
