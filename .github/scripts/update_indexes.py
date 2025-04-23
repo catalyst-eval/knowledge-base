@@ -15,7 +15,7 @@ Output:
 
 import os
 import re
-import frontmatter
+import yaml
 import glob
 from collections import defaultdict
 
@@ -29,23 +29,39 @@ CATEGORIES = {
     'strategies': 'Practical Strategies'
 }
 
+def extract_yaml_front_matter(file_path):
+    """Extract YAML front matter from a markdown file."""
+    with open(file_path, 'r') as f:
+        content = f.read()
+    
+    # Check if file has YAML front matter (between --- markers)
+    match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
+    if match:
+        try:
+            # Parse YAML content
+            front_matter = yaml.safe_load(match.group(1))
+            return front_matter
+        except Exception as e:
+            print(f"Error parsing YAML in {file_path}: {e}")
+    
+    return None
+
 def extract_metadata_from_files():
     """Extract metadata from all markdown files."""
-    md_files = glob.glob('*.md')
+    md_files = glob.glob('transcript-analyses/*.md')
     
     # Skip existing index files
-    md_files = [f for f in md_files if not f.startswith('index')]
+    md_files = [f for f in md_files if not os.path.basename(f).startswith('index')]
     
     file_metadata = {}
     
     for file_path in md_files:
         try:
-            with open(file_path, 'r') as f:
-                post = frontmatter.load(f)
+            front_matter = extract_yaml_front_matter(file_path)
             
             # Only include files with proper front matter
-            if 'title' in post.metadata and 'date' in post.metadata:
-                file_metadata[file_path] = post.metadata
+            if front_matter and 'title' in front_matter and 'date' in front_matter:
+                file_metadata[file_path] = front_matter
                 
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
@@ -70,7 +86,7 @@ def generate_main_index(file_metadata):
     # Sort files by date, newest first
     sorted_files = sorted(
         [(path, meta) for path, meta in file_metadata.items() if 'date' in meta],
-        key=lambda x: x[1]['date'],
+        key=lambda x: str(x[1]['date']),
         reverse=True
     )
     
@@ -126,7 +142,7 @@ def generate_category_indexes(file_metadata):
             # Sort files in each category by date
             sorted_files = sorted(
                 category_groups[category_value],
-                key=lambda x: x[1].get('date', ''),
+                key=lambda x: str(x[1].get('date', '')),
                 reverse=True
             )
             

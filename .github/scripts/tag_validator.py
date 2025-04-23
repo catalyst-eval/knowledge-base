@@ -21,7 +21,6 @@ import os
 import re
 import json
 import yaml
-import frontmatter
 import glob
 from collections import defaultdict
 import nltk
@@ -32,13 +31,37 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
 # Download NLTK resources if not already present
-nltk.download('punkt', quiet=True)
-nltk.download('stopwords', quiet=True)
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt', quiet=True)
+
+try:
+    nltk.data.find('corpora/stopwords')
+except LookupError:
+    nltk.download('stopwords', quiet=True)
 
 # Configuration
 TAG_GLOSSARY_FILE = 'tag-glossary.md'
 REQUIRED_FRONT_MATTER = ['title', 'date', 'concepts', 'version']
 MIN_CONFIDENCE_THRESHOLD = 0.6
+
+def extract_yaml_front_matter(file_path):
+    """Extract YAML front matter from a markdown file."""
+    with open(file_path, 'r') as f:
+        content = f.read()
+    
+    # Check if file has YAML front matter (between --- markers)
+    match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
+    if match:
+        try:
+            # Parse YAML content
+            front_matter = yaml.safe_load(match.group(1))
+            return front_matter, content
+        except Exception as e:
+            print(f"Error parsing YAML in {file_path}: {e}")
+    
+    return None, content
 
 def extract_tags_from_glossary():
     """Extract all valid tags from the tag glossary file."""
@@ -69,20 +92,20 @@ def extract_tags_from_file(file_path):
     
     try:
         # Parse front matter
-        with open(file_path, 'r') as f:
-            post = frontmatter.load(f)
+        front_matter, content = extract_yaml_front_matter(file_path)
+        if not front_matter:
+            return used_tags
             
         # Extract tags from front matter
         for tag_category in ['concepts', 'metaphors', 'strategies', 'neurotype', 'client_type', 'presenting_issue']:
-            if tag_category in post.metadata:
-                tags = post.metadata[tag_category]
+            if tag_category in front_matter:
+                tags = front_matter[tag_category]
                 if isinstance(tags, list):
                     used_tags.update(tags)
                 elif isinstance(tags, str):
                     used_tags.add(tags)
         
         # Extract inline hashtags
-        content = post.content
         hashtag_pattern = re.compile(r'#([a-z0-9-]+)')
         for match in hashtag_pattern.finditer(content):
             used_tags.add(match.group(1))
@@ -97,11 +120,12 @@ def validate_required_front_matter(file_path):
     missing_fields = []
     
     try:
-        with open(file_path, 'r') as f:
-            post = frontmatter.load(f)
+        front_matter, _ = extract_yaml_front_matter(file_path)
+        if not front_matter:
+            return REQUIRED_FRONT_MATTER
             
         for field in REQUIRED_FRONT_MATTER:
-            if field not in post.metadata:
+            if field not in front_matter:
                 missing_fields.append(field)
                 
     except Exception as e:
@@ -113,9 +137,13 @@ def validate_required_front_matter(file_path):
 def extract_content_for_analysis(file_path):
     """Extract the content from a markdown file for text analysis."""
     try:
-        with open(file_path, 'r') as f:
-            post = frontmatter.load(f)
-        return post.content
+        _, content = extract_yaml_front_matter(file_path)
+        
+        # Remove front matter and just return the markdown content
+        match = re.match(r'^---\s*\n.*?\n---\s*\n(.*)', content, re.DOTALL)
+        if match:
+            return match.group(1)
+        return content
     except Exception as e:
         print(f"Error extracting content from {file_path}: {e}")
         return ""
@@ -242,18 +270,29 @@ def update_cross_references(files_and_tags):
             )[:3]
             
             # Only include files with similarity above threshold
-            related_files = [f for f, sim in similar_files if sim > 0.3]
+            related_files = [os.path.basename(f) for f, sim in similar_files if sim > 0.3]
             
             if related_files:
-                with open(file_path, 'r') as f:
-                    post = frontmatter.load(f)
+                front_matter, content = extract_yaml_front_matter(file_path)
                 
-                # Update related_analyses in front matter
-                post.metadata['related_analyses'] = related_files
-                
-                # Write back to file
-                with open(file_path, 'w') as f:
-                    f.write(frontmatter.dumps(post))
+                if front_matter:
+                    # Update related_analyses in front matter
+                    front_matter['related_analyses'] = related_files
+                    
+                    # Write back to file
+                    with open(file_path, 'r') as f:
+                        content = f.read()
+                        
+                    # Update YAML front matter in content
+                    new_content = re.sub(
+                        r'^---\s*\n.*?\n---\s*\n',
+                        '---\n' + yaml.dump(front_matter, default_flow_style=False) + '---\n',
+                        content,
+                        flags=re.DOTALL
+                    )
+                    
+                    with open(file_path, 'w') as f:
+                        f.write(new_content)
                     
         except Exception as e:
             print(f"Error updating cross-references in {file_path}: {e}")
@@ -264,10 +303,10 @@ def main():
     print(f"Found {len(valid_tags)} valid tags in glossary")
     
     # Process all markdown files
-    md_files = glob.glob('*.md')
+    md_files = glob.glob('transcript-analyses/*.md')
     
     # Skip the glossary and index files
-    md_files = [f for f in md_files if f != TAG_GLOSSARY_FILE and not f.startswith('index')]
+    md_files = [f for f in md_files if not os.path.basename(f).startswith('index')]
     
     # Track results
     invalid_tags = []
@@ -298,7 +337,7 @@ def main():
         suggested_tags, confidence = suggest_tags(file_path, valid_tags, tag_keywords)
         if suggested_tags:
             tag_suggestions[file_path] = suggested_tags
-            tag_confidence_scores[file_path] = confidence
+            tag_confidence_scores[file_path] = {tag: float(conf) for tag, conf in confidence.items()}
     
     # Update cross-references
     update_cross_references(files_and_tags)
