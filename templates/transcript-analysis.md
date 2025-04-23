@@ -75,7 +75,13 @@ The therapist's discussion of "[CONCEPT]" builds on [THEORY] as articulated by [
 
 ## Recommendations for Framework Additions or Modifications
 
-This section will be automatically extracted into a separate file in the `framework-mods` directory. These recommendations are used to suggest additions to the tag glossary and conceptual framework.
+This section will be automatically extracted into a separate file in the `framework-mods` directory. Claude should create this section after analyzing the transcript, comparing against existing tags in the tag glossary, and identifying gaps in the conceptual framework.
+
+When creating recommendations, Claude should:
+1. Check if similar tags or concepts already exist in the tag glossary
+2. Consider how new recommendations fit within the existing hierarchical structure
+3. Provide clear definitions and justifications for new tags or categories
+4. After presenting recommendations, explicitly ask the user which changes they'd like to implement
 
 ### Expand the "[CATEGORY]" Category 
 

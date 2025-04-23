@@ -45,7 +45,9 @@ def extract_recommendations_section(content):
     match = re.search(section_pattern, content, re.DOTALL)
     
     if match:
-        return match.group(1).strip()
+        # Capture the entire section including all subsections
+        recommendations = match.group(1).strip()
+        return recommendations
     
     return None
 
