@@ -118,6 +118,17 @@ After submitting a new analysis or major update:
 3. Verify that cross-references to related documents are accurate
 4. Ensure research connections are well-sourced
 
+## GitHub Pages Website
+
+This knowledge base is also published as a browsable website using GitHub Pages. For the website to render correctly:
+
+1. Make sure your date format in the YAML front matter is a valid date (YYYY-MM-DD)
+2. Avoid placeholder values marked with square brackets in published files
+3. Test your links to make sure they work in the website context
+4. Images should be placed in an `/assets/images/` directory and referenced with relative paths
+
+The website is automatically updated when changes are pushed to the main branch.
+
 ## Questions or Suggestions
 
 If you have questions about the contribution process or suggestions for improving the knowledge base structure, please open an issue in the repository.
