@@ -23,23 +23,6 @@ import json
 import yaml
 import glob
 from collections import defaultdict
-import nltk
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
-
-# Download NLTK resources if not already present
-try:
-    nltk.data.find('tokenizers/punkt')
-except LookupError:
-    nltk.download('punkt', quiet=True)
-
-try:
-    nltk.data.find('corpora/stopwords')
-except LookupError:
-    nltk.download('stopwords', quiet=True)
 
 # Configuration
 TAG_GLOSSARY_FILE = 'tag-glossary.md'
@@ -101,8 +84,10 @@ def extract_tags_from_file(file_path):
             if tag_category in front_matter:
                 tags = front_matter[tag_category]
                 if isinstance(tags, list):
-                    used_tags.update(tags)
-                elif isinstance(tags, str):
+                    for tag in tags:
+                        if isinstance(tag, (str, int, float, bool)):  # Ensure value is hashable
+                            used_tags.add(tag)
+                elif isinstance(tags, (str, int, float, bool)):
                     used_tags.add(tags)
         
         # Extract inline hashtags
@@ -201,10 +186,8 @@ def suggest_tags(file_path, valid_tags, tag_keywords):
     if not content:
         return [], {}
     
-    # Tokenize and preprocess
-    tokens = word_tokenize(content.lower())
-    stop_words = set(stopwords.words('english'))
-    filtered_tokens = [w for w in tokens if w not in stop_words and len(w) > 2]
+    # Simple keyword counting approach instead of NLTK
+    content_lower = content.lower()
     
     # Calculate tag confidence scores
     tag_confidence = {}
@@ -214,15 +197,15 @@ def suggest_tags(file_path, valid_tags, tag_keywords):
             continue
             
         # Count keyword occurrences
-        keyword_count = sum(filtered_tokens.count(keyword.lower()) for keyword in keywords)
-        
-        # Also check for keyword phrases
+        keyword_count = 0
         for keyword in keywords:
-            if ' ' in keyword and keyword.lower() in content.lower():
-                keyword_count += 3  # Give extra weight to phrases
+            keyword_lower = keyword.lower()
+            # Count occurrences of whole words only
+            keyword_count += len(re.findall(r'\b' + re.escape(keyword_lower) + r'\b', content_lower))
         
-        # Normalize by content length
-        confidence = min(keyword_count / (len(filtered_tokens) * 0.05), 1.0)
+        # Normalize by content length (rough estimate)
+        content_size = max(1, len(content.split()))  # Avoid division by zero
+        confidence = min(keyword_count / (content_size * 0.01), 1.0)
         
         if confidence > MIN_CONFIDENCE_THRESHOLD:
             tag_confidence[tag] = confidence
