@@ -145,22 +145,6 @@ Context 1:
 The transcript demonstrates how humor serves as a powerful engagement tool for maintaining attention and reducing shame in ADHD therapy, including strategic use of humor to maintain attention during challenging topics and as a defense-bypassing mechanism. #therapeutic-humor #engagement-strategies
 ```
 
-## adhd-entrepreneurship
-
-**Suggested definition:**
-
-_Define this tag based on the context below_
-
-**Context from framework modifications:**
-
-Context 1:
-```
-ment ADHD strengths and challenges
-- Communication strategies for client and employee interactions
-
-#adhd-entrepreneurship #client-centered-applications
-```
-
 ## category-tag
 
 **Suggested definition:**
@@ -221,7 +205,7 @@ Context 1:
 clude [NEW CONCEPT] - This moves beyond [CURRENT MODEL] to include [NEW PERSPECTIVE]. #category-tag #concept-tag
 ```
 
-## metacommunication
+## engagement-strategies
 
 **Suggested definition:**
 
@@ -231,14 +215,13 @@ _Define this tag based on the context below_
 
 Context 1:
 ```
-de identification
-- Process-focused feedback loops
-- Communication about communication preferences
+ilding through shared humor
+- Balance between humor and therapeutic seriousness
 
-#metacommunication #communication-approaches
+#therapeutic-humor #engagement-strategies
 ```
 
-## neurodivergent-parenting
+## family-systems
 
 **Suggested definition:**
 
@@ -248,10 +231,53 @@ _Define this tag based on the context below_
 
 Context 1:
 ```
-ts for parents during child dysregulation
-- Intergenerational pattern recognition and modification
+d accommodations to self
+- Methods for breaking intergenerational patterns
 
-#neurodivergent-parenting #parent-accommodations
+#parent-child-mirroring #family-systems
+
+### Create "Fear-Motivation Relationship" Under Regulatory Models
+
+The transcript highlights the complex relationship between fear and motivation in ADHD, which warrants dedicated framework attentio
+```
+
+## motivation-systems
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+est-based nervous systems
+- Reframing avoidance as information rather than failure
+
+#fear-avoidance #motivation-systems
+
+### Add "Humor as Engagement Strategy" to Communication Approaches
+
+The transcript demonstrates how humor serves as a powerful engagement tool for maintaining attention and reducing shame in ADHD th
+```
+
+## neurodivergent-experience
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+on - The balance between true self-expression and necessary adjustments
+
+#dialectical-understanding #neurodivergent-experience
+
+### Add "Parent-Child Mirroring" to Systems Perspectives
+
+The transcript reveals how parenting neurodivergent children creates therapeutic opportunities through mirroring, which deserves systematic
 ```
 
 ## parent-accommodations
@@ -288,3 +314,38 @@ Context 2:
 accommodations and adaptations can actually increase overall capacity, not just manage limitations. #regulatory-models #energy-battery
 ```
 
+## self-compassion
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+ameworks
+- Language for reframing self-criticism through a neurodiversity lens
+
+#self-accommodation #self-compassion
+
+### Expand "Dialectical Understanding" to Include Neurodivergent-Specific Dialectics
+
+The framework would benefit from explicitly identifying dialectical tensions that are particularly salient for n
+```
+
+## adhd-entrepreneurship
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+ment ADHD strengths and challenges
+- Communication strategies for client and employee interactions
+
+#adhd-entrepreneurship #client-centered-applications
+```
