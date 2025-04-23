@@ -17,8 +17,8 @@ This index organizes transcript analyses by client type.
 
 ## adult
 
-- [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
+- [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
 ## couples-therapy
