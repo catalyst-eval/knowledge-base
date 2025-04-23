@@ -121,16 +121,21 @@ def generate_category_indexes(file_metadata):
                 
                 # Handle both string and list values
                 if isinstance(category_values, str):
-                    category_groups[category_values].append((file_path, metadata))
+                    if category_values.strip():  # Skip empty strings
+                        category_groups[category_values].append((file_path, metadata))
                 elif isinstance(category_values, list):
                     for value in category_values:
-                        category_groups[value].append((file_path, metadata))
+                        if isinstance(value, (str, int, float, bool)):  # Ensure value is hashable
+                            if isinstance(value, str) and value.strip():  # Skip empty strings
+                                category_groups[value].append((file_path, metadata))
+                        else:
+                            print(f"Warning: Unhashable value {value} in {file_path} for category {category_key}")
         
         # Add table of contents
         content += "## Contents\n\n"
         
         for category_value in sorted(category_groups.keys()):
-            anchor = category_value.lower().replace(' ', '-').replace('/', '-')
+            anchor = str(category_value).lower().replace(' ', '-').replace('/', '-')
             content += f"- [{category_value}](#{anchor})\n"
         
         content += "\n"
