@@ -11,6 +11,7 @@ This index organizes transcript analyses by presenting issues.
 - [daily-functioning](#daily-functioning)
 - [dysregulation](#dysregulation)
 - [entrepreneurship](#entrepreneurship)
+- [example-issue](#example-issue)
 - [executive-function-challenges](#executive-function-challenges)
 - [family-communication](#family-communication)
 - [family-dynamics](#family-dynamics)
@@ -49,6 +50,10 @@ This index organizes transcript analyses by presenting issues.
 ## entrepreneurship
 
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
+
+## example-issue
+
+- [Example Analysis Template](transcript-analyses/04-23-2025_analyzed-transcript-1.md) - 2025-04-23
 
 ## executive-function-challenges
 

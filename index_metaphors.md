@@ -24,6 +24,7 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 
 ## battery-capacity
 
+- [Example Analysis Template](transcript-analyses/04-23-2025_analyzed-transcript-1.md) - 2025-04-23
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 
 ## dialectical-pairs
