@@ -4,6 +4,7 @@ This index organizes transcript analyses by practical strategies.
 
 ## Contents
 
+- [accommodation-awareness](#accommodation-awareness)
 - [accommodation-mapping](#accommodation-mapping)
 - [ambition](#ambition)
 - [clear-expectations](#clear-expectations)
@@ -21,6 +22,10 @@ This index organizes transcript analyses by practical strategies.
 - [three-part-communication](#three-part-communication)
 - [value-based-decision-making](#value-based-decision-making)
 - [written-accommodations](#written-accommodations)
+
+## accommodation-awareness
+
+- [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
 
 ## accommodation-mapping
 
@@ -72,6 +77,7 @@ This index organizes transcript analyses by practical strategies.
 
 ## self-advocacy
 
+- [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
