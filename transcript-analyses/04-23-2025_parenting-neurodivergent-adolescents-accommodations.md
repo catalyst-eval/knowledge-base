@@ -109,52 +109,6 @@ The therapist's recommendation for collaborative written plans aligns with Ross 
 
 The discussion about intergenerational patterns connects to research on the broader autism phenotype in families. Studies by Losh et al. (2017) found that parents of autistic children often share subclinical traits, which can influence both communication patterns and parenting approaches. The therapist's focus on identifying these patterns without blame aligns with Constantino and Charman's (2016) recommendations for family-centered interventions that acknowledge neurological diversity within family systems. #intergenerational-patterns #family-systems
 
-## Recommendations for Framework Additions or Modifications
-
-### Add "Neurodivergent Parenting" to Client-Centered Applications
-
-Given the prevalence of neurodivergent parents raising neurodivergent children, a dedicated category would be valuable. This would include:
-- Accommodations for executive function challenges in parenting
-- Communication strategies across different processing styles
-- Self-regulation supports for parents during child dysregulation
-- Intergenerational pattern recognition and modification
-
-#neurodivergent-parenting #parent-accommodations
-
-### Expand the "Family Dynamics" Category 
-
-To include "Neurodivergent Family Systems" - This would explore how multiple neurodivergent members create unique interactional patterns that require specific accommodations. This expansion would address the compounding effects when multiple family members have different neurological processing styles. #neurodivergent-family-systems #systems-perspectives
-
-### Add "Adolescent Transitions for Neurodivergent Youth" to Developmental Considerations
-
-The transcript reveals particular challenges for adolescents transitioning to independence, which deserves focused attention:
-- School-to-home transitions management
-- Education system accommodations
-- Medication self-management development
-- Social-emotional development in neurodivergent adolescence
-
-#adolescent-transitions #educational-accommodations
-
-### Enhance the "External Scaffolding" section to include:
-
-- Written Accommodation Plans - Template formats for creating clear family agreements
-- Visual Schedules for Family Systems - Beyond individual schedules to whole-family coordination
-- Decision-Making Matrices - Structured approaches for family decision-making
-- Technology Supports for Neurodivergent Families - Digital tools for planning and communication
-
-#external-scaffolding #visual-supports
-
-### Create "Burnout Prevention and Recovery" under Regulatory Models
-
-The transcript highlights the serious impact of burnout, which warrants a dedicated framework section:
-- Early warning signs of autistic burnout in children and adolescents
-- Preventative accommodation strategies for different environments
-- Recovery approaches after burnout episodes
-- Distinguishing burnout from depression and anxiety
-
-#burnout-prevention #recovery-strategies
-
-These additions would enhance the framework's ability to address the complex challenges of neurodivergent family systems, particularly focusing on the interplay between parent and child neurodivergence and the specific challenges of adolescent development.
 
 ## Related Analyses
 

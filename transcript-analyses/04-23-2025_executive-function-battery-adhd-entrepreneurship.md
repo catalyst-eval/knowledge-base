@@ -110,51 +110,6 @@ The therapist's connection between executive function strain and heightened reje
 
 The session touches on themes consistent with research on ADHD and entrepreneurship by Wiklund et al. (2018), which found that certain ADHD traits like cognitive flexibility, hyperfocus on interesting tasks, and comfort with risk can be advantageous in entrepreneurial contexts. The client's strategic delegation of detailed maintenance tasks aligns with recommendations for ADHD entrepreneurs to leverage their strengths while accommodating challenges. #adhd-entrepreneurship #strengths-based-approach
 
-## Recommendations for Framework Additions or Modifications
-
-### Add "ADHD Entrepreneurship" to Client-Centered Applications
-
-Given the prevalence of entrepreneurship among individuals with ADHD and the unique challenges and strengths they bring to business ownership, a dedicated category would be valuable. This would include:
-- Executive function allocation strategies for business owners
-- Interest-based business development approaches
-- Delegation frameworks that complement ADHD strengths and challenges
-- Communication strategies for client and employee interactions
-
-#adhd-entrepreneurship #client-centered-applications
-
-### Expand the "Energy Management" Category 
-
-To include "Strategic Energy Allocation" - This moves beyond basic energy conservation to include the intentional direction of limited executive resources toward high-value activities. This framework would help individuals identify which activities provide the highest return on cognitive investment. #energy-management #strategic-allocation
-
-### Add "Value-Based Decision Making" to Practical Strategies
-
-The transcript reveals the importance of aligning decisions with personal values to reduce cognitive strain and rejection sensitivity. This category would include:
-- Methods for identifying core values vs. societal expectations
-- Decision-making frameworks that prioritize value alignment
-- Techniques for communicating value-based boundaries
-- Approaches for minimizing people-pleasing behaviors that deplete resources
-
-#value-based-decision-making #decision-making-frameworks
-
-### Enhance the "Metaphors and Explanatory Tools" section to include:
-
-- Battery with Variable Capacity - Specifically addressing how different strategies and contexts can expand or contract available executive resources
-- Hyper-to-Hypo Transitions - Visual model explaining energy fluctuations in ADHD focus
-- Micro/Macro Value Integration - Framework for connecting detailed tasks to broader value systems
-
-#metaphors #variable-capacity
-
-### Create "Rejection Sensitivity Management" under Regulatory Models
-
-The transcript highlights how executive function depletion increases rejection sensitivity, which then creates a negative feedback loop. This category would address:
-- Identifying rejection sensitivity triggers
-- Preventative strategies during high executive-demand periods
-- Recovery approaches after rejection sensitivity activations
-- Connection between executive function and emotional regulation
-
-#rejection-sensitivity #regulatory-models
-
-These additions would enhance the framework's ability to address the specific challenges of ADHD in professional contexts, particularly entrepreneurship, where executive function demands are high and self-directed structure is essential.
 
 ## Related Analyses
 

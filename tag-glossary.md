@@ -17,7 +17,7 @@ This document defines the standardized tags used throughout our clinical transcr
 - **monotropism**: Attention style characterized by intense focus on a single interest or task at a time.
 - **combined-neurotype-experience**: The unique neurological experience of individuals with multiple neurodevelopmental conditions (e.g., autism and ADHD together).
 - **autistic-inertia**: Difficulty initiating or changing activities, particularly notable during transitions.
-- **interoception**: Sense of the internal state of the body, including emotional awareness, hunger, temperature, pain, etc.
+- **interoception**: Sense of the internal state of the body, including emotional awareness, hunger, temperature, pain, etc. Fundamental to emotional regulation in neurodivergent individuals and increasingly recognized as a key factor in self-regulation.
 - **autistic-burnout**: State of chronic exhaustion, reduced functioning, and increased autism traits following periods of high accommodation demands.
 - **executive-function**: Cognitive processes including working memory, flexible thinking, and self-control.
 - **cognitive-differences**: Fundamental differences in how information is processed, organized, and recalled in neurodivergent individuals.
@@ -38,7 +38,7 @@ This document defines the standardized tags used throughout our clinical transcr
 - **co-regulation**: Process where one person helps another regulate their emotional state.
 - **dysregulation-cascade**: The escalation of emotional and physiological dysregulation that can occur in neurodivergent individuals.
 - **energy-management**: Approaches for understanding and managing limited cognitive and emotional resources in neurodivergent individuals.
-- **energy-battery**: Concept that energy capacity can be modified through accommodations rather than simply managed as a finite resource.
+- **energy-battery**: Concept that energy capacity can be modified through accommodations rather than simply managed as a finite resource. Includes the idea of "Variable Capacity" where accommodations and adaptations can actually increase overall capacity, not just manage limitations.
 - **sensory-processing**: How individuals receive, interpret and respond to sensory information.
 
 ### Hierarchical Tags
@@ -84,8 +84,20 @@ This document defines the standardized tags used throughout our clinical transcr
 - **self-advocacy**: Developing skills to communicate one's needs and obtain appropriate accommodations.
 - **neurotype-discrimination**: Discussing experiences of discrimination based on neurological differences.
 - **softened-startups**: Communication technique for introducing demands or changes in a way that minimizes autonomy threats.
+- **metacommunication**: Communication about communication processes, including gateway prompts, operating system mode identification, and feedback about communication preferences.
 
 ### Hierarchical Tags
 - **communication:three-part-sequence**: The hierarchical version of three-part-communication tag.
 - **communication:self-advocacy**: The hierarchical version of self-advocacy tag.
 - **communication:softened-startups**: The hierarchical version of softened-startups tag.
+- **communication:metacommunication**: The hierarchical version of metacommunication tag.
+
+## Client-Centered Applications
+
+### Simple Tags
+- **adhd-entrepreneurship**: A specialized approach addressing the unique intersection of ADHD traits and entrepreneurial contexts, focusing on leveraging hyperfocus, creativity, and risk tolerance while accommodating executive function challenges.
+- **neurodivergent-parenting**: Approaches for supporting neurodivergent parents raising neurodivergent children, including accommodations for executive function challenges in parenting and self-regulation supports during child dysregulation.
+
+### Hierarchical Tags
+- **applications:adhd-entrepreneurship**: The hierarchical version of adhd-entrepreneurship tag.
+- **applications:neurodivergent-parenting**: The hierarchical version of neurodivergent-parenting tag.

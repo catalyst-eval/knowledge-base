@@ -108,52 +108,6 @@ The references to alexithymia (difficulty identifying emotions) and interoceptio
 
 The therapist's discussion of cost-benefit analysis in communication decisions aligns with research on compensatory strategies in autism and ADHD. Hull et al. (2021) documented that many autistic adults engage in conscious, strategic decision-making about social responses, which can be exhausting but effective. This connects to the "double empathy problem" described by Milton (2012), which recognizes that communication difficulties stem from bidirectional differences rather than deficits in the neurodivergent partner. #compensatory-strategies #double-empathy-problem
 
-## Recommendations for Framework Additions or Modifications
-
-### Add "Metacommunication" to Communication Approaches
-
-Given the emphasis on communicating about communication processes, a dedicated category on metacommunication would be valuable. This would include:
-- Gateway prompts to signal cognitive states
-- Operating system mode identification
-- Process-focused feedback loops
-- Communication about communication preferences
-
-#metacommunication #communication-approaches
-
-### Expand the "Three-Part Communication" Category 
-
-To include "Gateway Prompt Variations" - This would provide specific examples of how the self-admission, empathy, ambition sequence can be modified for different neurotypes and situations. Different scripts and approaches could be documented for various contexts. #three-part-communication #gateway-prompt
-
-### Add "Neurotype-Specific Communication Patterns" to Conceptual Categories
-
-The transcript reveals important patterns in how different neurotypes approach communication that would benefit from systematic documentation:
-- Alexithymia-informed communication adaptations
-- Interoception check-ins and accommodations
-- Cost-benefit analysis recognition and response
-- Fawning patterns and appropriate responses
-
-#neurotype-specific-communication #communication-patterns
-
-### Enhance the "Couples Therapy Approaches" section to include:
-
-- Neurodivergent Family System Integration - How to discuss neurodiversity with extended family
-- Perpetual Problem Navigation - Strategies for accepting neurological differences that won't change
-- Mismatched Processing Styles - Approaches for couples with different processing speeds and styles
-- Words-Tone Misalignment Interventions - How to address when verbal and non-verbal communication appear incongruent
-
-#couples-therapy #neurodivergent-relationships
-
-### Add "Adaptive Function of Communication Challenges" Framework
-
-The transcript highlights how behaviors often viewed as problematic (fawning, strategic responding, delayed processing) serve adaptive functions. This framework would help clinicians and clients:
-- Identify the adaptive purpose of communication patterns
-- Determine when patterns are helping versus hindering
-- Develop alternative strategies that serve the same adaptive function
-- Reduce shame and increase self-understanding
-
-#adaptive-function #strengths-based-approach
-
-These additions would enhance the framework's ability to address the specific communication challenges in neurodivergent relationships, providing more nuanced guidance that acknowledges the adaptive functions of various communication strategies.
 
 ## Related Analyses
 

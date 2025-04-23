@@ -148,31 +148,6 @@ The collaborative approach recommended aligns with Ross Greene's Collaborative &
 
 The clinician's emphasis on co-regulation ("He is finding himself dependent on your regulated state") connects to substantial evidence showing the importance of parental co-regulation for developing self-regulation skills. This approach is supported by research on brain-based parenting techniques from experts like Mona Delahooke, who emphasizes understanding "behaviors as neurological differences rather than willful defiance" (AutPlay Therapy, 2021). #co-regulation #regulatory-models
 
-## Recommendations for Framework Additions or Modifications
-
-### Interoception and Embodied Cognition
-
-While the transcript mentions interoception briefly, this concept deserves expanded treatment in the framework. Interoception (internal body awareness) is increasingly recognized as fundamental to emotional regulation in neurodivergent individuals. Future sessions could explore how Clayton's interoceptive awareness affects his regulation capabilities and develop strategies to enhance this skill. #interoception #regulatory-models
-
-### Sensory Processing Specificity
-
-The framework would benefit from more detailed assessment and categorization of sensory processing patterns specific to each client. The transcript mentions sensory approaches broadly, but individualized sensory profiles would allow for more tailored interventions based on hyper/hypo-sensitivity patterns across sensory modalities. #sensory-processing #sensory-informed-interventions
-
-### Energy Accounting and Spoon Theory
-
-The therapist alludes to limited cognitive resources but could benefit from incorporating formal "energy accounting" frameworks like Spoon Theory into the model. This would help quantify the increased cognitive/regulatory demands placed on neurodivergent individuals and guide pacing of activities and recovery periods. #energy-accounting #spoon-theory
-
-### Technological Supports
-
-While the transcript focuses on in-person strategies, the framework could be enhanced by incorporating technological supports for regulation and executive function. Apps, timers, visual schedules, and other digital tools can provide scaffolding for neurodivergent youth navigating educational demands. #technological-supports #executive-function
-
-### Post-Secondary Transition Planning
-
-Given Clayton's age and the discussion of his future academic interests, the framework should expand to include neurodiversity-informed post-secondary transition planning. This would include guidance on selecting appropriate educational pathways that align with monotropic attention patterns and interest-based motivation. #post-secondary-transition #developmental-considerations
-
-### Parent Support Networks
-
-The framework would benefit from formal incorporation of parent support networks to help parents like Speaker B connect with others navigating similar challenges. Peer support has been shown to reduce parental stress and increase implementation of neurodiversity-affirming approaches. #parent-support-networks #parent-coaching
 
 This analysis demonstrates the richness of the therapeutic approach presented in the transcript and its strong alignment with current evidence-based, neurodiversity-affirming practices. The integration of neurological explanations with practical strategies provides a valuable template for supporting both neurodivergent youth and their parents.
 

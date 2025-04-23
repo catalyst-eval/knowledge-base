@@ -145,61 +145,6 @@ The discussion of sensory sensitivities, particularly around temperature regulat
 
 The therapist's nuanced approach to the client's combined autism-ADHD presentation is supported by research on the overlap between these conditions, with Antshel and Russo (2019) noting that 30-80% of individuals with ADHD display autistic traits, and vice versa. Their work emphasizes the need for treatment approaches that address the unique challenges of co-occurring conditions rather than treating each separately. #combined-neurotype #evidence-based-practice
 
-## Recommendations for Framework Additions or Modifications
-
-### Expand the "Regulatory Models" Category 
-
-To include the concept of "Energy Battery with Variable Capacity" - This moves beyond static depletion models to include the idea that accommodations and adaptations can actually increase overall capacity, not just manage limitations. #regulatory-models #energy-battery
-
-### Add "Combined Neurotype Experiences" as a Conceptual Category
-
-Given the high co-occurrence of autism, ADHD, and other neurodevelopmental conditions, having a framework section dedicated to the unique challenges and strengths of combined neurotypes would be valuable. This would include:
-- Distinguishing between executive function and values-based aspects of routines
-- Identifying competing cognitive patterns and their impacts
-- Strategies for leveraging strengths of one neurotype to support challenges of the other
-
-#combined-neurotype-experience #neurological-frameworks
-
-### Enhance the "Metaphors and Explanatory Tools" section to include:
-
-- Mental Mapping Differences - The contrast between autism's "Google Street View" navigation versus ADHD's "micro detail" approach
-- Monotropism-Attachment Matrix - The integration of attention patterns with attachment styles
-- Battery with Variable Capacity - A refinement of spoon theory that includes capacity-building
-
-#metaphors #explanatory-tools
-
-### Add "Self-Perception and Neurological Identity" as a Client-Centered Application
-
-The transcript reveals the importance of helping clients distinguish between pathologized interpretations of their experiences (e.g., "depression spurts") and neurodiversity-affirming ones (e.g., "autistic burnout"). This category would include:
-- Reframing past experiences through neurodiversity lens
-- Distinguishing between co-occurring conditions and neurological differences
-- Building language for self-advocacy around neurological identity
-
-#self-perception #neurodiversity-affirming
-
-### Expand "Communication Approaches" to include Transition Supports
-
-The transcript shows how communication around upcoming changes or demands can be structured to reduce autonomy threats. This would include:
-- "Softened startups" for introducing demands
-- Multi-modality options (text vs. verbal communication)
-- Temporal spacing of demand introduction and demand response
-
-#communication-approaches #transitions
-
-### Add "Interocceptive Awareness" to Sensory-Informed Interventions
-
-The transcript highlights the importance of building awareness of internal states, particularly around:
-- Hunger/eating regulation affected by executive function
-- Temperature sensitivity and regulation
-- Recognition of energy depletion signals before burnout
-
-#interoception #sensory-informed-interventions
-
-### Create a "Partial Accommodation" category under Family Systems Interventions
-
-The transcript demonstrates how sometimes complete accommodations aren't possible, but partial ones (like the grocery store pickup + produce shopping example) can significantly reduce energy expenditure while maintaining function. #partial-accommodation #accommodation-strategies
-
-These additions would enhance the framework's ability to capture the nuanced clinical insights demonstrated in this session while providing more concrete guidance for clinicians adopting similar neurodiversity-affirming approaches.
 
 ## Related Analyses
 

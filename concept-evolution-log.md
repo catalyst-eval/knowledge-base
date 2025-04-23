@@ -20,6 +20,11 @@ This document tracks the evolution of key concepts in our neurodiversity-affirmi
 - **v1 (04-23-2025)**: Conceptualized as difficulty initiating or changing activities, using the "lighthouse" analogy for attention focus
 - **v2**: *[Future development]*
 
+### interoception
+- **v1 (04-23-2025)**: Initial description as awareness of internal bodily states including emotional awareness, hunger, temperature, pain
+- **v2 (04-23-2025)**: Expanded to emphasize its fundamental role in emotional regulation for neurodivergent individuals
+- **v3**: *[Future development]*
+
 ## Regulatory Models
 
 ### bottom-up-processing
@@ -29,7 +34,8 @@ This document tracks the evolution of key concepts in our neurodiversity-affirmi
 ### energy-management
 - **v1 (04-15-2025)**: Initially based on traditional spoon theory with fixed resource limitations
 - **v2 (04-15-2025)**: Evolved to include the "energy battery with variable capacity" concept, suggesting accommodations can increase capacity, not just manage limitations
-- **v3**: *[Future development]*
+- **v3 (04-23-2025)**: Further refined to emphasize strategic allocation of limited executive resources toward high-value activities
+- **v4**: *[Future development]*
 
 ### co-regulation
 - **v1 (04-23-2025)**: Introduced as parent-child regulatory relationship with emphasis on parental regulation state affecting child
@@ -60,6 +66,10 @@ This document tracks the evolution of key concepts in our neurodiversity-affirmi
 - **v1 (04-23-2025)**: Introduced as Self-Admission, Empathy, Ambition sequence for engaging with dysregulated individuals
 - **v2**: *[Future development]*
 
+### metacommunication
+- **v1 (04-23-2025)**: Initial conceptualization focusing on communication about communication processes, including gateway prompts and operating system mode identification
+- **v2**: *[Future development]*
+
 ### collaborative-problem-solving
 - **v1 (04-23-2025)**: Emphasis on scheduled, proactive problem-solving when everyone is regulated
 - **v2 (04-15-2025)**: Expanded to include "co-labouring" and partnership in accommodation development
@@ -73,6 +83,14 @@ This document tracks the evolution of key concepts in our neurodiversity-affirmi
 
 ### neurodivergent-youth-support
 - **v1 (04-23-2025)**: Focus on parent education about neurological differences to shift understanding of behavior
+- **v2**: *[Future development]*
+
+### neurodivergent-parenting
+- **v1 (04-23-2025)**: Initial conceptualization focusing on neurodivergent parents raising neurodivergent children, addressing executive function challenges in parenting and self-regulation
+- **v2**: *[Future development]*
+
+### adhd-entrepreneurship
+- **v1 (04-23-2025)**: Recognition of the unique intersection of ADHD traits and entrepreneurial contexts, focusing on leveraging hyperfocus and creativity while accommodating executive function challenges
 - **v2**: *[Future development]*
 
 ### transition-management
@@ -93,3 +111,6 @@ Understanding the interaction between autism and ADHD in combined neurotypes rev
 
 ### Interest-Based Nervous System & Educational Approaches
 The concept of interest-based motivation directly informs educational accommodations, suggesting that engagement will be highest when connected to intrinsic interests rather than external rewards. This relationship challenges traditional educational motivation systems for neurodivergent students.
+
+### Interoception & Regulatory Models
+Interoception serves as a foundational component of emotional regulation, with awareness of internal bodily states being a prerequisite for effective self-regulation. This relationship emphasizes the importance of developing bodily awareness in neurodivergent individuals as part of a comprehensive approach to improving regulatory capacity.
