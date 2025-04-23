@@ -37,4 +37,5 @@ tmp/
 temp/
 
 # Generated files
-tag_suggestions.json
+# These need to be committed by GitHub Actions
+# tag_suggestions.json

@@ -105,4 +105,11 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Extract framework modifications [skip ci]"
-          file_pattern: "framework-mods/*.md tag_suggestions.json tag_glossary_additions.md"
+          file_pattern: "framework-mods/*.md tag_glossary_additions.md"
+          
+      - name: Commit tag suggestions
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update tag suggestions [skip ci]"
+          file_pattern: "tag_suggestions.json"
