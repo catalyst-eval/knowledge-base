@@ -2,6 +2,10 @@
 
 This repository serves as a comprehensive knowledge base of clinical insights, therapeutic approaches, and practical strategies for neurodiversity-affirming therapy. It contains analyzed clinical transcripts organized with a consistent tagging structure to facilitate knowledge discovery and application.
 
+## Getting Started
+
+Browse the [main index](index.md) to explore analyses by category, or navigate to specific [concept](index_concepts.md), [neurotype](index_neurotype.md), or [strategy](index_strategies.md) indexes.
+
 ## Project Vision
 
 To create a comprehensive knowledge base from client transcripts that captures unique clinical insights, neurodiversity-affirming perspectives, and practical therapeutic strategies. This resource serves multiple purposes:
