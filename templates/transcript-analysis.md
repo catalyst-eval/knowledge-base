@@ -75,6 +75,8 @@ The therapist's discussion of "[CONCEPT]" builds on [THEORY] as articulated by [
 
 ## Recommendations for Framework Additions or Modifications
 
+This section will be automatically extracted into a separate file in the `framework-mods` directory. These recommendations are used to suggest additions to the tag glossary and conceptual framework.
+
 ### Expand the "[CATEGORY]" Category 
 
 To include [NEW CONCEPT] - This moves beyond [CURRENT MODEL] to include [NEW PERSPECTIVE]. #category-tag #concept-tag

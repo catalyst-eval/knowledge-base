@@ -105,9 +105,19 @@ When you push changes or create a pull request, automated checks will:
 1. Validate that all tags exist in the glossary
 2. Suggest additional tags based on content analysis
 3. Check for required front matter fields
-4. Update index files when merging to main
+4. Extract framework modification recommendations into separate files
+5. Generate tag glossary addition suggestions
+6. Update index files when merging to main
 
 Review any validation errors or suggestions in the pull request comments.
+
+### Framework Modification Process
+
+Each transcript analysis includes a "Recommendations for Framework Additions or Modifications" section. This process handles these recommendations:
+
+1. The section is automatically extracted into a separate file in the `framework-mods` directory
+2. Tag suggestions are compiled from these recommendations into `tag_glossary_additions.md`
+3. Reviewers can then evaluate these suggestions and add approved tags to the glossary
 
 ### Manual Review Process
 

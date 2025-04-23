@@ -1,4 +1,4 @@
-name: Validate and Suggest Tags
+name: Validate Tags and Process Framework Modifications
 
 on:
   push:
@@ -30,6 +30,15 @@ jobs:
         run: |
           python .github/scripts/tag_validator.py
         id: validate
+        
+      - name: Extract framework modifications
+        run: |
+          mkdir -p framework-mods
+          python .github/scripts/extract_framework_mods.py
+        
+      - name: Suggest tag additions
+        run: |
+          python .github/scripts/suggest_tag_additions.py
 
       - name: Comment on PR with suggestions
         if: github.event_name == 'pull_request' && steps.validate.outputs.has_suggestions == 'true'
@@ -90,3 +99,10 @@ jobs:
         with:
           commit_message: "Update index files [skip ci]"
           file_pattern: "index*.md"
+          
+      - name: Commit extracted framework modifications
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Extract framework modifications [skip ci]"
+          file_pattern: "framework-mods/*.md tag_suggestions.json tag_glossary_additions.md"
