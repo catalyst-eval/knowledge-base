@@ -4,7 +4,7 @@ This repository serves as a comprehensive knowledge base of clinical insights, t
 
 ## Getting Started
 
-Browse the [main index](index.md) to explore analyses by category, or navigate to specific [concept](index_concepts.md), [neurotype](index_neurotype.md), or [strategy](index_strategies.md) indexes.
+Browse the [main index](index.md) to explore analyses by category, or navigate to specific [concept](index_concepts.md), [neurotype](index_neurotype.md), [client type](index_client_type.md), [presenting issue](index_presenting_issue.md), [metaphor](index_metaphors.md), or [strategy](index_strategies.md) indexes.
 
 ## Project Vision
 
