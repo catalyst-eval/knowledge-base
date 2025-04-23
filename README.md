@@ -17,9 +17,10 @@ To create a comprehensive knowledge base from client transcripts that captures u
 
 ## Repository Structure
 
-- **Transcript Analyses**: Markdown files in the root directory containing analyzed clinical transcripts
+- **Transcript Analyses**: Markdown files in the transcript-analyses directory containing analyzed clinical transcripts
 - **Tag Glossary**: `tag-glossary.md` defines all standardized tags used throughout the knowledge base
 - **Concept Evolution Log**: `concept-evolution-log.md` tracks how concepts evolve over time
+- **Framework Modifications**: Extracted recommendations for tag additions and framework changes in the framework-mods directory
 - **Index Files**: Generated files that organize analyses by different categories
 - **Templates**: Standard formats for creating new analyses
 - **Automation**: Scripts for validating tags, suggesting new tags, and updating indexes
