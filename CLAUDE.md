@@ -2,6 +2,49 @@
 
 This document outlines the workflow process for analyzing transcripts and managing framework modifications.
 
+## Complete Workflow Illustration
+
+```
+1. User provides transcript for analysis
+   │
+   ▼
+2. Claude analyzes transcript
+   │
+   ▼
+3. Claude creates transcript analysis file
+   │   - Uses proper YAML front matter
+   │   - Includes only existing tags from glossary
+   │   - Follows template structure
+   │
+   ▼
+4. Claude creates separate framework modifications file
+   │   - Compares transcript concepts against existing tags
+   │   - Identifies potential new tags and categories
+   │   - Provides definitions and justifications
+   │
+   ▼
+5. Claude presents framework modifications to user
+   │   - "Based on my analysis, I recommend these additions to the framework:"
+   │   - Lists each recommendation with explanation
+   │
+   ▼
+6. Claude asks for user approval
+   │   - "Would you like me to implement any of these changes to the tag glossary?"
+   │   - Lists each recommendation as a separate option
+   │
+   ▼
+7. User provides feedback
+   │   - Approves specific recommendations
+   │   - Suggests modifications
+   │   - Denies certain recommendations
+   │
+   ▼
+8. Claude implements approved changes
+    - Updates tag-glossary.md with new tags and definitions
+    - Updates concept-evolution-log.md if needed
+    - Confirms changes made to the user
+```
+
 ## Transcript Analysis Workflow
 
 ### 1. Analyze the Transcript
@@ -54,7 +97,9 @@ When creating framework modifications:
    - Evaluate how a new tag might relate to multiple categories
    - Identify connections between conceptual frameworks
 
-## Example Framework Modification
+## Example Implementation Process
+
+### 1. Framework Modification File
 
 ```md
 ---
@@ -85,4 +130,36 @@ Given the importance of aligning decisions with personal values to reduce cognit
 - Decision-making frameworks that prioritize value alignment
 - Techniques for communicating value-based boundaries
 - Approaches for minimizing people-pleasing behaviors that deplete resources
+```
+
+### 2. User Approval Request
+
+```
+Based on my analysis of the transcript, I recommend these additions to the framework:
+
+1. New tag: "adhd-entrepreneurship" - A specialized approach addressing the unique intersection of ADHD traits and entrepreneurial contexts.
+
+2. Category expansion: Add "Strategic Energy Allocation" to the "Energy Management" category - This includes intentional direction of limited executive resources toward high-value activities.
+
+3. New strategy category: "Value-Based Decision Making" - Methods for aligning decisions with personal values to reduce cognitive strain and rejection sensitivity.
+
+Would you like me to implement any of these changes to the tag glossary? You can select specific options or suggest modifications.
+```
+
+### 3. Implementation of Approved Changes
+
+If the user approves the first recommendation:
+
+```python
+# Update tag-glossary.md
+
+# Find the client-centered-applications section
+# Add new tag definition in alphabetical order:
+
+"""
+**adhd-entrepreneurship**: A specialized approach addressing the unique intersection of ADHD traits and entrepreneurial contexts, focusing on leveraging hyperfocus, creativity, and risk tolerance while accommodating executive function challenges. Related tags: executive-function, adhd, energy-management
+"""
+
+# Confirm to user:
+"I've added the 'adhd-entrepreneurship' tag to the glossary under the client-centered-applications section. Would you like me to proceed with any other changes?"
 ```
