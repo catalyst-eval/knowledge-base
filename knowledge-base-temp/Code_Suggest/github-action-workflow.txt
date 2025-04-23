@@ -1,0 +1,92 @@
+name: Validate and Suggest Tags
+
+on:
+  push:
+    paths:
+      - '**.md'
+  pull_request:
+    paths:
+      - '**.md'
+  workflow_dispatch:
+
+jobs:
+  validate-tags:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml markdown frontmatter nltk scikit-learn
+
+      - name: Validate and suggest tags
+        run: |
+          python .github/scripts/tag_validator.py
+        id: validate
+
+      - name: Comment on PR with suggestions
+        if: github.event_name == 'pull_request' && steps.validate.outputs.has_suggestions == 'true'
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const suggestions = JSON.parse(fs.readFileSync('tag_suggestions.json', 'utf8'));
+            
+            let commentBody = '## Tag Validation Results\n\n';
+            
+            if (suggestions.invalid_tags.length > 0) {
+              commentBody += '### ⚠️ Invalid Tags Found\n\n';
+              commentBody += 'The following tags are not in the tag glossary:\n\n';
+              suggestions.invalid_tags.forEach(tag => {
+                commentBody += `- \`${tag.tag}\` in file \`${tag.file}\`\n`;
+              });
+              commentBody += '\nPlease either add these tags to the tag glossary or use existing tags instead.\n\n';
+            }
+            
+            if (Object.keys(suggestions.tag_suggestions).length > 0) {
+              commentBody += '### 💡 Tag Suggestions\n\n';
+              commentBody += 'Based on content analysis, consider adding these tags:\n\n';
+              
+              for (const [file, tags] of Object.entries(suggestions.tag_suggestions)) {
+                commentBody += `**${file}**:\n`;
+                tags.forEach(tag => {
+                  commentBody += `- \`${tag}\` (confidence: ${suggestions.tag_confidence[file][tag].toFixed(2)})\n`;
+                });
+                commentBody += '\n';
+              }
+            }
+            
+            if (suggestions.missing_front_matter.length > 0) {
+              commentBody += '### ❌ Missing YAML Front Matter\n\n';
+              commentBody += 'The following files are missing required YAML front matter:\n\n';
+              suggestions.missing_front_matter.forEach(file => {
+                commentBody += `- \`${file}\`\n`;
+              });
+            }
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: commentBody
+            });
+
+      - name: Update index files
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          python .github/scripts/update_indexes.py
+          
+      - name: Commit updated index files
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update index files [skip ci]"
+          file_pattern: "index*.md"
