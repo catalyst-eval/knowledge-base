@@ -2,6 +2,7 @@
 
 The following tags have been suggested for addition to the tag glossary:
 
+<<<<<<< HEAD
 ## variotropism
 
 **Suggested definition:**
@@ -236,6 +237,8 @@ Context 1:
 A shared responsibility approach to neurodivergent communication where both partners actively manage information flow - the sharing partner filtering overwhelming data before presentation, and the receiving partner managing their defensive reactions to what is shared. This represents an evolution beyond traditional speaker/listener models. #communication-approaches #mutual-data-filtering
 ```
 
+=======
+>>>>>>> 213cf9a0691c9520e4283f76bd278452960363ab
 ## category-tag
 
 **Suggested definition:**
@@ -332,6 +335,26 @@ d accommodations to self
 The transcript highlights the complex relationship between fear and motivation in ADHD, which warrants dedicated framework attentio
 ```
 
+## fear-avoidance
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+oaches for interest-based nervous systems
+- Reframing avoidance as information rather than failure
+
+#fear-avoidance #motivation-systems
+
+### Add "Humor as Engagement Strategy" to Communication Approaches
+
+The transcript demonstrates how humor serves as a powerful engagement tool for maintaining attention and reduc
+```
+
 ## motivation-systems
 
 **Suggested definition:**
@@ -387,6 +410,26 @@ d dysregulation
 #neurodivergent-parenting #parent-accommodations
 ```
 
+## parent-child-mirroring
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+extending child-directed accommodations to self
+- Methods for breaking intergenerational patterns
+
+#parent-child-mirroring #family-systems
+
+### Create "Fear-Motivation Relationship" Under Regulatory Models
+
+The transcript highlights the complex relationship between fear and motivation in ADHD, which warrants dedicated fr
+```
+
 ## regulatory-models
 
 **Suggested definition:**
@@ -403,6 +446,26 @@ ss affects his regulation capabilities and develop strategies to enhance this sk
 Context 2:
 ```
 accommodations and adaptations can actually increase overall capacity, not just manage limitations. #regulatory-models #energy-battery
+```
+
+## self-accommodation
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+/external support frameworks
+- Language for reframing self-criticism through a neurodiversity lens
+
+#self-accommodation #self-compassion
+
+### Expand "Dialectical Understanding" to Include Neurodivergent-Specific Dialectics
+
+The framework would benefit from explicitly identifying dialectical tensions that are particula
 ```
 
 ## self-compassion
@@ -424,3 +487,20 @@ ameworks
 
 The framework would benefit from explicitly identifying dialectical tensions that are particularly salient for n
 ```
+
+## therapeutic-humor
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+tic relationship building through shared humor
+- Balance between humor and therapeutic seriousness
+
+#therapeutic-humor #engagement-strategies
+```
+

@@ -7,6 +7,7 @@ This index organizes transcript analyses by neurotype.
 - [adhd](#adhd)
 - [autism](#autism)
 - [combined-neurotype](#combined-neurotype)
+- [monotropism](#monotropism)
 - [ptsd](#ptsd)
 
 ## adhd
@@ -29,7 +30,12 @@ This index organizes transcript analyses by neurotype.
 
 ## combined-neurotype
 
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
+
+## monotropism
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 
 ## ptsd
 

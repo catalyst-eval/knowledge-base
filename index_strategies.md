@@ -12,13 +12,17 @@ This index organizes transcript analyses by practical strategies.
 - [communication-pause](#communication-pause)
 - [delegation](#delegation)
 - [depersonalizing-challenges](#depersonalizing-challenges)
+- [depersonalizing-conflict](#depersonalizing-conflict)
 - [empathy](#empathy)
 - [external-scaffolding](#external-scaffolding)
 - [parental-co-planning](#parental-co-planning)
 - [parental-modeling](#parental-modeling)
 - [partial-accommodation](#partial-accommodation)
+- [pattern-identification](#pattern-identification)
+- [perspective-bridging](#perspective-bridging)
 - [perspective-sharing](#perspective-sharing)
 - [safety-pattern-identification](#safety-pattern-identification)
+- [scheduled-values-discussion](#scheduled-values-discussion)
 - [self-admission](#self-admission)
 - [self-advocacy](#self-advocacy)
 - [sensory-regulation](#sensory-regulation)
@@ -58,6 +62,10 @@ This index organizes transcript analyses by practical strategies.
 
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
+## depersonalizing-conflict
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
+
 ## empathy
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
@@ -78,6 +86,14 @@ This index organizes transcript analyses by practical strategies.
 
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
+## pattern-identification
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
+
+## perspective-bridging
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
+
 ## perspective-sharing
 
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
@@ -85,6 +101,10 @@ This index organizes transcript analyses by practical strategies.
 ## safety-pattern-identification
 
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
+## scheduled-values-discussion
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 
 ## self-admission
 

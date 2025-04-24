@@ -7,9 +7,11 @@ This index organizes transcript analyses by presenting issues.
 - [adolescent-transitions](#adolescent-transitions)
 - [burnout](#burnout)
 - [communication](#communication)
+- [communication-breakdown](#communication-breakdown)
 - [conflict-management](#conflict-management)
 - [daily-functioning](#daily-functioning)
 - [dysregulation](#dysregulation)
+- [emotional-overwhelm](#emotional-overwhelm)
 - [entrepreneurship](#entrepreneurship)
 - [example-issue](#example-issue)
 - [executive-function-challenges](#executive-function-challenges)
@@ -20,6 +22,7 @@ This index organizes transcript analyses by presenting issues.
 - [intimacy](#intimacy)
 - [medication-adherence](#medication-adherence)
 - [parenting](#parenting)
+- [parenting-conflict](#parenting-conflict)
 - [relationship-challenges](#relationship-challenges)
 - [school-refusal](#school-refusal)
 - [self-compassion](#self-compassion)
@@ -42,6 +45,10 @@ This index organizes transcript analyses by presenting issues.
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
+## communication-breakdown
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
+
 ## conflict-management
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
@@ -53,6 +60,10 @@ This index organizes transcript analyses by presenting issues.
 ## dysregulation
 
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
+
+## emotional-overwhelm
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 
 ## entrepreneurship
 
@@ -93,6 +104,10 @@ This index organizes transcript analyses by presenting issues.
 ## parenting
 
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
+## parenting-conflict
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 
 ## relationship-challenges
 

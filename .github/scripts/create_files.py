@@ -24,9 +24,10 @@ def create_file(file_type, concept_name):
     today = datetime.datetime.now()
     yaml_date = today.strftime("%Y-%m-%d")
     
-    # Create filenames
+    # Create filenames - always use YYYY-MM-DD format for consistency
     if file_type == "analysis":
         directory = "transcript-analyses"
+        # Ensure consistent YYYY-MM-DD format for all files
         filename = f"{yaml_date}_{concept_name}.md"
         template = f"""---
 title: "{concept_name.replace('-', ' ').title()}"

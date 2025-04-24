@@ -7,11 +7,13 @@ This index organizes transcript analyses by conceptual frameworks.
 - [alexithymia](#alexithymia)
 - [autistic-burnout](#autistic-burnout)
 - [autistic-inertia](#autistic-inertia)
+- [bidirectional-advocacy](#bidirectional-advocacy)
 - [bottom-up-processing](#bottom-up-processing)
 - [collaborative-problem-solving](#collaborative-problem-solving)
 - [combined-neurotype-experience](#combined-neurotype-experience)
 - [cost-benefit-analysis](#cost-benefit-analysis)
 - [dialectical-understanding](#dialectical-understanding)
+- [double-empathy-problem](#double-empathy-problem)
 - [energy-battery](#energy-battery)
 - [energy-management](#energy-management)
 - [executive-function](#executive-function)
@@ -28,6 +30,7 @@ This index organizes transcript analyses by conceptual frameworks.
 - [safety-system](#safety-system)
 - [three-part-communication](#three-part-communication)
 - [trauma-response-patterns](#trauma-response-patterns)
+- [values-based-negotiation](#values-based-negotiation)
 
 ## alexithymia
 
@@ -41,6 +44,10 @@ This index organizes transcript analyses by conceptual frameworks.
 ## autistic-inertia
 
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
+
+## bidirectional-advocacy
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 
 ## bottom-up-processing
 
@@ -62,6 +69,10 @@ This index organizes transcript analyses by conceptual frameworks.
 
 - [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
+
+## double-empathy-problem
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 
 ## energy-battery
 
@@ -106,6 +117,7 @@ This index organizes transcript analyses by conceptual frameworks.
 
 ## neurodivergent-couples
 
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## neurotype-discrimination
@@ -131,4 +143,8 @@ This index organizes transcript analyses by conceptual frameworks.
 ## trauma-response-patterns
 
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
+## values-based-negotiation
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 

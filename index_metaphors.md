@@ -14,13 +14,16 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 - [hide-and-seek](#hide-and-seek)
 - [hyper-to-hypo](#hyper-to-hypo)
 - [ice-pick-on-slope](#ice-pick-on-slope)
+- [macro-micro-perspectives](#macro-micro-perspectives)
 - [moving-target](#moving-target)
 - [one-percent-adjustments](#one-percent-adjustments)
 - [operating-system-mode](#operating-system-mode)
+- [parenting-values-meeting](#parenting-values-meeting)
 - [recovery-matrix](#recovery-matrix)
 - [spoon-theory](#spoon-theory)
 - [tropism-attachment-matrix](#tropism-attachment-matrix)
 - [tropism-model](#tropism-model)
+- [we-solutions](#we-solutions)
 
 ## 80-20-model
 
@@ -63,6 +66,10 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
 
+## macro-micro-perspectives
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
+
 ## moving-target
 
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
@@ -74,6 +81,10 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 ## operating-system-mode
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
+
+## parenting-values-meeting
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 
 ## recovery-matrix
 
@@ -90,4 +101,8 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 ## tropism-model
 
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
+
+## we-solutions
+
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 

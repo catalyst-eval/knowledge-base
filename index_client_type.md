@@ -26,6 +26,7 @@ This index organizes transcript analyses by client type.
 
 ## couples-therapy
 
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
@@ -41,6 +42,7 @@ This index organizes transcript analyses by client type.
 
 ## parent-coaching
 
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
 

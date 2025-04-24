@@ -20,6 +20,14 @@ python create_files.py analysis healing-backlog-neurodivergent-couples
 python create_files.py framework-mod healing-backlog-neurodivergent-couples
 ```
 
+This will create files with names like:
+```
+transcript-analyses/2025-04-23_healing-backlog-neurodivergent-couples.md
+framework-mods/2025-04-23_healing-backlog-neurodivergent-couples_framework-mods.md
+```
+
+Note that files **must** use the YYYY-MM-DD date format (e.g., 2025-04-23) rather than MM-DD-YYYY. This ensures consistency and proper sorting in the knowledge base.
+
 This script:
 - Automatically uses the current date in both filename and YAML front matter
 - Creates files with consistent naming conventions
