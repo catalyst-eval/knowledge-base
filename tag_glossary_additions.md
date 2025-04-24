@@ -93,6 +93,45 @@ Context 1:
 Partnerships where one or both individuals are neurodivergent, presenting unique relational dynamics that require specific understanding of how different neurotypes interact in intimate relationships. #systems-perspectives #neurodivergent-couples
 ```
 
+## values-based-negotiation
+
+**Suggested definition:**
+
+A collaborative approach for neurodivergent relationships that focuses on identifying shared underlying values rather than specific behavioral expectations, allowing different neurological styles to implement the same core values in ways that honor their processing differences.
+
+**Context from framework modifications:**
+
+Context 1:
+```
+A collaborative approach for neurodivergent relationships that focuses on identifying shared underlying values rather than specific behavioral expectations, allowing different neurological styles to implement the same core values in ways that honor their processing differences. This approach moves beyond procedural alignment to focus on what matters most to both partners. #communication-approaches #values-based-negotiation
+```
+
+## perspective-complementarity
+
+**Suggested definition:**
+
+The recognition that different neurological processing styles lead to complementary observational strengths (e.g., macro pattern recognition versus micro detail focus), which can be integrated rather than positioned as competing approaches.
+
+**Context from framework modifications:**
+
+Context 1:
+```
+The recognition that different neurological processing styles lead to complementary observational strengths (e.g., macro pattern recognition versus micro detail focus), which can be integrated rather than positioned as competing approaches. This is particularly valuable for co-parenting partnerships where different perspectives offer complementary insights. #neurological-frameworks #perspective-complementarity
+```
+
+## we-solutions
+
+**Suggested definition:**
+
+A framework for neurodivergent relationship problem-solving that intentionally frames challenges as shared territory requiring mutual accommodation rather than positioning one partner's approach as normative.
+
+**Context from framework modifications:**
+
+Context 1:
+```
+A framework for neurodivergent relationship problem-solving that intentionally frames challenges as shared territory requiring mutual accommodation rather than positioning one partner's approach as normative. This addresses power imbalances that often develop in neurodivergent relationships where one neurological style becomes the standard. #systems-perspectives #we-solutions
+```
+
 ## self-accommodation
 
 **Suggested definition:**
