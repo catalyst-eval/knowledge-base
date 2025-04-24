@@ -1,7 +1,7 @@
 ---
 title: "Framework Modifications from Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy"
 source_file: "transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md"
-date: 2025-05-15
+date: 2025-04-23
 ---
 
 # Framework Modification Recommendations

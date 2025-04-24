@@ -1,6 +1,6 @@
 ---
 title: "Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches"
-date: 2025-04-30
+date: 2025-04-23
 client_type: 
   - couples-therapy
   - parent-coaching
@@ -26,7 +26,7 @@ strategies:
   - perspective-bridging
   - pattern-identification
 related_analyses:
-  - "2025-04-25_safety-system-framework-neurodivergent-couples.md"
+  - "2025-04-23_safety-system-framework-neurodivergent-couples.md"
 version: 1
 ---
 
@@ -206,4 +206,4 @@ The session approach aligns with research by Dissanayake et al. (2020) on co-par
 
 ## Related Analyses
 
-- [Safety System Framework for Neurodivergent Couples](2025-04-25_safety-system-framework-neurodivergent-couples.md) - Covers related concepts around creating safe communication frameworks in neurodivergent relationships
+- [Safety System Framework for Neurodivergent Couples](2025-04-23_safety-system-framework-neurodivergent-couples.md) - Covers related concepts around creating safe communication frameworks in neurodivergent relationships

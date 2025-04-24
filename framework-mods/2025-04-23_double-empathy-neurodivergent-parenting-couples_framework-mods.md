@@ -1,8 +1,8 @@
 ---
 title: "Framework Modifications for Double Empathy and Neurodivergent Parenting"
-date: 2025-04-30
+date: 2025-04-23
 source_analyses:
-  - "2025-04-30_double-empathy-neurodivergent-parenting-couples.md"
+  - "2025-04-23_double-empathy-neurodivergent-parenting-couples.md"
 concepts:
   - double-empathy-problem
   - neurodivergent-couples

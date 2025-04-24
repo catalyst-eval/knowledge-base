@@ -184,6 +184,58 @@ Context 1:
 The transcript demonstrates how humor serves as a powerful engagement tool for maintaining attention and reducing shame in ADHD therapy, including strategic use of humor to maintain attention during challenging topics and as a defense-bypassing mechanism. #therapeutic-humor #engagement-strategies
 ```
 
+## healing-backlog
+
+**Suggested definition:**
+
+The accumulated history of hurts, miscommunications, and pattern expectations in a relationship that creates barriers to present communication and trust, requiring gradual dilution through positive data accumulation rather than direct resolution.
+
+**Context from framework modifications:**
+
+Context 1:
+```
+The accumulated history of hurts, miscommunications, and pattern expectations in a relationship that creates barriers to present communication and trust, requiring gradual dilution through positive data accumulation rather than direct resolution. This concept is particularly relevant for neurodivergent relationships where communication breakdowns may have occurred repeatedly due to neurological differences. #systems-perspectives #healing-backlog
+```
+
+## memory-asymmetry
+
+**Suggested definition:**
+
+The neurological difference in how relationship events are encoded, stored, and retrieved in memory between partners, often resulting in one partner carrying detailed emotional memories while the other struggles to access the same level of detail.
+
+**Context from framework modifications:**
+
+Context 1:
+```
+The neurological difference in how relationship events are encoded, stored, and retrieved in memory between partners, often resulting in one partner carrying detailed emotional memories while the other struggles to access the same level of detail. This fundamental asymmetry is a key factor in ongoing relationship challenges in neurodivergent couples. #neurological-frameworks #memory-asymmetry
+```
+
+## staccato-engagement
+
+**Suggested definition:**
+
+A communication approach for neurodivergent relationships involving intentionally brief, frequent interactions that reduce processing demands while gradually accumulating positive data points, particularly valuable when trust deficits exist.
+
+**Context from framework modifications:**
+
+Context 1:
+```
+A communication approach for neurodivergent relationships involving intentionally brief, frequent interactions that reduce processing demands while gradually accumulating positive data points, particularly valuable when trust deficits exist. This approach acknowledges how processing differences and trauma histories require fundamentally different communication architectures. #communication-approaches #staccato-engagement
+```
+
+## mutual-data-filtering
+
+**Suggested definition:**
+
+A shared responsibility approach to neurodivergent communication where both partners actively manage information flow - the sharing partner filtering overwhelming data before presentation, and the receiving partner managing their defensive reactions to what is shared.
+
+**Context from framework modifications:**
+
+Context 1:
+```
+A shared responsibility approach to neurodivergent communication where both partners actively manage information flow - the sharing partner filtering overwhelming data before presentation, and the receiving partner managing their defensive reactions to what is shared. This represents an evolution beyond traditional speaker/listener models. #communication-approaches #mutual-data-filtering
+```
+
 ## category-tag
 
 **Suggested definition:**
