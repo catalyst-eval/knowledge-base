@@ -19,6 +19,7 @@ This index organizes transcript analyses by conceptual frameworks.
 - [executive-function](#executive-function)
 - [family-dynamics](#family-dynamics)
 - [fawn-response](#fawn-response)
+- [healing-backlog](#healing-backlog)
 - [interest-based-nervous-system](#interest-based-nervous-system)
 - [intergenerational-patterns](#intergenerational-patterns)
 - [interoception](#interoception)
@@ -30,15 +31,19 @@ This index organizes transcript analyses by conceptual frameworks.
 - [safety-system](#safety-system)
 - [three-part-communication](#three-part-communication)
 - [trauma-response-patterns](#trauma-response-patterns)
+- [trust-rebuilding](#trust-rebuilding)
 - [values-based-negotiation](#values-based-negotiation)
 
 ## alexithymia
 
+- [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/2025-04-23_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
 ## autistic-burnout
 
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
+- [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/2025-04-23_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
+- [Tropism Model and Accommodation Mapping in Neurodivergent Therapy](transcript-analyses/2025-04-23_tropism-model-accommodation-mapping-neurodivergent-therapy.md) - 2025-04-23
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
 ## autistic-inertia
@@ -47,7 +52,7 @@ This index organizes transcript analyses by conceptual frameworks.
 
 ## bidirectional-advocacy
 
-- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-23_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-23
 
 ## bottom-up-processing
 
@@ -56,69 +61,90 @@ This index organizes transcript analyses by conceptual frameworks.
 ## collaborative-problem-solving
 
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
+- [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/2025-04-23_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 
 ## combined-neurotype-experience
 
+- [Tropism Model and Accommodation Mapping in Neurodivergent Therapy](transcript-analyses/2025-04-23_tropism-model-accommodation-mapping-neurodivergent-therapy.md) - 2025-04-23
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
 ## cost-benefit-analysis
 
+- [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/2025-04-23_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
 ## dialectical-understanding
 
-- [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
+- [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/2025-04-23_fear-motivation-neurodivergent-therapy.md) - 2025-04-23
 
 ## double-empathy-problem
 
-- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
+- [Healing Backlog in Neurodivergent Couples Communication: Staccato Engagement and Data Filtering](transcript-analyses/2025-04-23_healing-backlog-neurodivergent-couples-communication.md) - 2025-04-23
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-23_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-23
 
 ## energy-battery
 
+- [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/2025-04-23_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 
 ## energy-management
 
+- [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/2025-04-23_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
 ## executive-function
 
+- [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/2025-04-23_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 
 ## family-dynamics
 
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
+- [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/2025-04-23_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 
 ## fawn-response
 
+- [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/2025-04-23_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
+
+## healing-backlog
+
+- [Healing Backlog in Neurodivergent Couples Communication: Staccato Engagement and Data Filtering](transcript-analyses/2025-04-23_healing-backlog-neurodivergent-couples-communication.md) - 2025-04-23
 
 ## interest-based-nervous-system
 
-- [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
+- [Example Analysis Template](transcript-analyses/2025-04-23_analyzed-transcript-1.md) - 2025-04-23
+- [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/2025-04-23_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
+- [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/2025-04-23_fear-motivation-neurodivergent-therapy.md) - 2025-04-23
+- [Tropism Model and Accommodation Mapping in Neurodivergent Therapy](transcript-analyses/2025-04-23_tropism-model-accommodation-mapping-neurodivergent-therapy.md) - 2025-04-23
 - [Example Analysis Template](transcript-analyses/04-23-2025_analyzed-transcript-1.md) - 2025-04-23
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 
 ## intergenerational-patterns
 
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
+- [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/2025-04-23_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 
 ## interoception
 
+- [Tropism Model and Accommodation Mapping in Neurodivergent Therapy](transcript-analyses/2025-04-23_tropism-model-accommodation-mapping-neurodivergent-therapy.md) - 2025-04-23
+- [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/2025-04-23_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
 ## monotropism
 
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
+- [Tropism Model and Accommodation Mapping in Neurodivergent Therapy](transcript-analyses/2025-04-23_tropism-model-accommodation-mapping-neurodivergent-therapy.md) - 2025-04-23
 
 ## neurodivergent-couples
 
-- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+- [Healing Backlog in Neurodivergent Couples Communication: Staccato Engagement and Data Filtering](transcript-analyses/2025-04-23_healing-backlog-neurodivergent-couples-communication.md) - 2025-04-23
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-23_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-23
 
 ## neurotype-discrimination
 
@@ -130,7 +156,7 @@ This index organizes transcript analyses by conceptual frameworks.
 
 ## rejection-sensitivity
 
-- [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
+- [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/2025-04-23_fear-motivation-neurodivergent-therapy.md) - 2025-04-23
 
 ## safety-system
 
@@ -138,13 +164,18 @@ This index organizes transcript analyses by conceptual frameworks.
 
 ## three-part-communication
 
+- [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/2025-04-23_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
 ## trauma-response-patterns
 
 - [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
+## trust-rebuilding
+
+- [Healing Backlog in Neurodivergent Couples Communication: Staccato Engagement and Data Filtering](transcript-analyses/2025-04-23_healing-backlog-neurodivergent-couples-communication.md) - 2025-04-23
+
 ## values-based-negotiation
 
-- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-30_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-30
+- [Double Empathy in Neurodivergent Parenting Couples: Values-Based Accommodation Approaches](transcript-analyses/2025-04-23_double-empathy-neurodivergent-parenting-couples.md) - 2025-04-23
 
