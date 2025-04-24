@@ -11,11 +11,14 @@ This index organizes transcript analyses by practical strategies.
 - [collaborative-problem-solving](#collaborative-problem-solving)
 - [communication-pause](#communication-pause)
 - [delegation](#delegation)
+- [depersonalizing-challenges](#depersonalizing-challenges)
 - [empathy](#empathy)
 - [external-scaffolding](#external-scaffolding)
 - [parental-co-planning](#parental-co-planning)
 - [parental-modeling](#parental-modeling)
 - [partial-accommodation](#partial-accommodation)
+- [perspective-sharing](#perspective-sharing)
+- [safety-pattern-identification](#safety-pattern-identification)
 - [self-admission](#self-admission)
 - [self-advocacy](#self-advocacy)
 - [sensory-regulation](#sensory-regulation)
@@ -51,6 +54,10 @@ This index organizes transcript analyses by practical strategies.
 
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 
+## depersonalizing-challenges
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
 ## empathy
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
@@ -71,6 +78,14 @@ This index organizes transcript analyses by practical strategies.
 
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 
+## perspective-sharing
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
+## safety-pattern-identification
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
 ## self-admission
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
@@ -78,6 +93,7 @@ This index organizes transcript analyses by practical strategies.
 ## self-advocacy
 
 - [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
 

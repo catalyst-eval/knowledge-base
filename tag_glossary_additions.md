@@ -372,19 +372,3 @@ ameworks
 
 The framework would benefit from explicitly identifying dialectical tensions that are particularly salient for n
 ```
-
-## adhd-entrepreneurship
-
-**Suggested definition:**
-
-_Define this tag based on the context below_
-
-**Context from framework modifications:**
-
-Context 1:
-```
-ment ADHD strengths and challenges
-- Communication strategies for client and employee interactions
-
-#adhd-entrepreneurship #client-centered-applications
-```

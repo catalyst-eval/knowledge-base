@@ -7,10 +7,12 @@ This index organizes transcript analyses by neurotype.
 - [adhd](#adhd)
 - [autism](#autism)
 - [combined-neurotype](#combined-neurotype)
+- [ptsd](#ptsd)
 
 ## adhd
 
 - [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
 - [Example Analysis Template](transcript-analyses/04-23-2025_analyzed-transcript-1.md) - 2025-04-23
@@ -28,4 +30,8 @@ This index organizes transcript analyses by neurotype.
 ## combined-neurotype
 
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
+
+## ptsd
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 

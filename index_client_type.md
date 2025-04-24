@@ -18,6 +18,7 @@ This index organizes transcript analyses by client type.
 ## adult
 
 - [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 - [Example Analysis Template](transcript-analyses/04-23-2025_analyzed-transcript-1.md) - 2025-04-23
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
@@ -25,6 +26,7 @@ This index organizes transcript analyses by client type.
 
 ## couples-therapy
 
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
 ## family-therapy

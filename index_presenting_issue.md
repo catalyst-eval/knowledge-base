@@ -17,11 +17,14 @@ This index organizes transcript analyses by presenting issues.
 - [family-dynamics](#family-dynamics)
 - [fear-avoidance](#fear-avoidance)
 - [homework-struggles](#homework-struggles)
+- [intimacy](#intimacy)
 - [medication-adherence](#medication-adherence)
+- [parenting](#parenting)
 - [relationship-challenges](#relationship-challenges)
 - [school-refusal](#school-refusal)
 - [self-compassion](#self-compassion)
 - [sensory-overload](#sensory-overload)
+- [substance-use-recovery](#substance-use-recovery)
 - [transitions](#transitions)
 - [work-stress](#work-stress)
 
@@ -36,6 +39,7 @@ This index organizes transcript analyses by presenting issues.
 
 ## communication
 
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
 ## conflict-management
@@ -78,9 +82,17 @@ This index organizes transcript analyses by presenting issues.
 
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
 
+## intimacy
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
 ## medication-adherence
 
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
+
+## parenting
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## relationship-challenges
 
@@ -97,6 +109,10 @@ This index organizes transcript analyses by presenting issues.
 ## sensory-overload
 
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
+
+## substance-use-recovery
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## transitions
 

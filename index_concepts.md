@@ -21,9 +21,13 @@ This index organizes transcript analyses by conceptual frameworks.
 - [intergenerational-patterns](#intergenerational-patterns)
 - [interoception](#interoception)
 - [monotropism](#monotropism)
+- [neurodivergent-couples](#neurodivergent-couples)
 - [neurotype-discrimination](#neurotype-discrimination)
+- [recovery-mechanisms](#recovery-mechanisms)
 - [rejection-sensitivity](#rejection-sensitivity)
+- [safety-system](#safety-system)
 - [three-part-communication](#three-part-communication)
+- [trauma-response-patterns](#trauma-response-patterns)
 
 ## alexithymia
 
@@ -100,15 +104,31 @@ This index organizes transcript analyses by conceptual frameworks.
 
 - [Interest-Based Nervous Systems and Bottom-Up Processing: Parent Coaching for Autistic Adolescent Dysregulation](transcript-analyses/2025-04-23_updated-transcript-analysis.md) - 2025-04-23
 
+## neurodivergent-couples
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
 ## neurotype-discrimination
 
 - [Combined Neurotype Experience and Energy Management: Spoon Theory Application for Autism-ADHD](transcript-analyses/2025-04-23_combined-neurotype-analysis.md) - 2025-04-15
+
+## recovery-mechanisms
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## rejection-sensitivity
 
 - [Fear, Motivation, and Self-Accommodation in Neurodivergent Adult Therapy](transcript-analyses/05-15-2025_fear-motivation-neurodivergent-therapy.md) - 2025-05-15
 
+## safety-system
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+
 ## three-part-communication
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
+
+## trauma-response-patterns
+
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
