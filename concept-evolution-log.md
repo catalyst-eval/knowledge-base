@@ -79,6 +79,14 @@ This document tracks the evolution of key concepts in our neurodiversity-affirmi
 - **v1 (04-15-2025)**: Strategic implementation of partial accommodations that balance needs with limited resources
 - **v2**: *[Future development]*
 
+### boundary-enforcement
+- **v1 (04-25-2025)**: Initial conceptualization distinguishing between boundary-setting (establishment) and boundary-enforcement (maintenance and defense), particularly in high-conflict relationships
+- **v2**: *[Future development]*
+
+### structured-communication-protocols
+- **v1 (04-25-2025)**: Introduced as formalized plans for when, how, and what communication is acceptable in separated partner or high-conflict relationships
+- **v2**: *[Future development]*
+
 ## Client-Centered Applications
 
 ### neurodivergent-youth-support
@@ -98,6 +106,33 @@ This document tracks the evolution of key concepts in our neurodiversity-affirmi
 - **v2 (04-15-2025)**: Expanded to include understanding of combined neurotype transition challenges and considerations of executive function and sensory processing occurring simultaneously
 - **v3**: *[Future development]*
 
+## Systems Perspectives
+
+### family-dynamics
+- **v1 (04-23-2025)**: Initial focus on how family relationships and patterns impact neurodivergent individuals
+- **v2**: *[Future development]*
+
+### educational-impact
+- **v1 (04-23-2025)**: Emphasis on how educational systems and expectations affect neurodivergent individuals
+- **v2**: *[Future development]*
+
+### dialectical-understanding
+- **v1 (04-23-2025)**: Framework for understanding seemingly contradictory experiences or tensions in neurodivergent experience
+- **v2**: *[Future development]*
+
+### attachment-theory
+- **v1 (04-15-2025)**: Beginning exploration of how attachment patterns intersect with neurodivergent experiences
+- **v2 (04-23-2025)**: Integration with the tropism model ("tropism-attachment matrix")
+- **v3**: *[Future development]*
+
+### post-separation-dynamics
+- **v1 (04-25-2025)**: Initial conceptualization addressing the unique challenges during separation and divorce processes
+- **v2**: *[Future development]*
+
+### convenience-partner
+- **v1 (04-25-2025)**: Introduced to describe post-separation dynamics where one partner continues to expect the emotional labor and support of a committed partner despite pursuing separation
+- **v2**: *[Future development]*
+
 ## Relationships Between Concepts
 
 ### Monotropism & Autistic Inertia
@@ -114,3 +149,6 @@ The concept of interest-based motivation directly informs educational accommodat
 
 ### Interoception & Regulatory Models
 Interoception serves as a foundational component of emotional regulation, with awareness of internal bodily states being a prerequisite for effective self-regulation. This relationship emphasizes the importance of developing bodily awareness in neurodivergent individuals as part of a comprehensive approach to improving regulatory capacity.
+
+### Post-Separation Dynamics & Communication Protocols
+The understanding of post-separation dynamics directly informs the development of structured communication protocols, with boundary enforcement strategies being essential to maintaining healthy separation while co-parenting effectively. This relationship emphasizes the importance of formalized communication boundaries in high-conflict relationships.

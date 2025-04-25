@@ -21,6 +21,7 @@ To create a comprehensive knowledge base from client transcripts that captures u
 - **Tag Glossary**: `tag-glossary.md` defines all standardized tags used throughout the knowledge base
 - **Concept Evolution Log**: `concept-evolution-log.md` tracks how concepts evolve over time
 - **Framework Modifications**: Extracted recommendations for tag additions and framework changes in the framework-mods directory
+- **Explainer Articles**: Comprehensive, client-ready resources in the explainers directory that synthesize information from multiple transcript analyses
 - **Index Files**: Generated files that organize analyses by different categories
 - **Templates**: Standard formats for creating new analyses
 - **Automation**: Scripts for validating tags, suggesting new tags, and updating indexes
@@ -51,6 +52,7 @@ This knowledge base uses several methods for navigation:
 - **Tag-Based Browsing**: Index files organize content by tag categories
 - **Search**: GitHub's search functionality allows finding specific concepts
 - **Cross-References**: Related analyses are linked at the end of each document
+- **Explainer Articles**: Comprehensive resources on specific concepts that synthesize information from multiple transcript analyses
 
 ## Contributing
 
