@@ -118,6 +118,22 @@ oaches for interest-based nervous systems
 The transcript demonstrates how humor serves as a powerful engagement tool for maintaining attention and reduc
 ```
 
+## framework
+
+**Suggested definition:**
+
+_Define this tag based on the context below_
+
+**Context from framework modifications:**
+
+Context 1:
+```
+Managing attachment transitions
+- Legal/practical barrier identification
+
+#post-separation-dynamics #framework
+```
+
 ## motivation-systems
 
 **Suggested definition:**
