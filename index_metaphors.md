@@ -6,6 +6,7 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 
 - [80-20-model](#80-20-model)
 - [battery-capacity](#battery-capacity)
+- [convenience-husband](#convenience-husband)
 - [cul-de-sac](#cul-de-sac)
 - [data-filtering](#data-filtering)
 - [dialectical-pairs](#dialectical-pairs)
@@ -38,8 +39,10 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 
 - [Example Analysis Template](transcript-analyses/2025-04-23_analyzed-transcript-1.md) - 2025-04-23
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/2025-04-23_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
-- [Example Analysis Template](transcript-analyses/04-23-2025_analyzed-transcript-1.md) - 2025-04-23
-- [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
+
+## convenience-husband
+
+- [Boundary Enforcement During Divorce Process](transcript-analyses/2025-04-25_boundary-enforcement-post-separation.md) - 2025-04-25
 
 ## cul-de-sac
 
@@ -63,21 +66,19 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 
 ## four-f-framework
 
-- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-23_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## gateway-prompt
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/2025-04-23_three-part-communication-neurodivergent-couples.md) - 2025-04-23
-- [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
 ## hide-and-seek
 
-- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-23_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## hyper-to-hypo
 
 - [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/2025-04-23_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
-- [Executive Function Battery Management in ADHD Entrepreneurship: Energy Allocation and Value-Based Decision Making](transcript-analyses/04-23-2025_executive-function-battery-adhd-entrepreneurship.md) - 2025-04-23
 
 ## ice-pick-on-slope
 
@@ -93,18 +94,15 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 
 ## moving-target
 
-- [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/2025-04-23_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 
 ## one-percent-adjustments
 
-- [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/04-23-2025_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 - [Parenting Neurodivergent Adolescents: Collaborative Accommodations and Family Communication](transcript-analyses/2025-04-23_parenting-neurodivergent-adolescents-accommodations.md) - 2025-04-23
 
 ## operating-system-mode
 
 - [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/2025-04-23_three-part-communication-neurodivergent-couples.md) - 2025-04-23
-- [Three-Part Communication in Neurodivergent Couples: Self-Admission, Empathy, and Ambition](transcript-analyses/04-23-2025_three-part-communication-neurodivergent-couples.md) - 2025-04-23
 
 ## parenting-values-meeting
 
@@ -116,7 +114,7 @@ This index organizes transcript analyses by metaphors and explanatory tools.
 
 ## recovery-matrix
 
-- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-25_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
+- [Safety System Framework for Neurodivergent Couples: Trauma Response Patterns and Recovery](transcript-analyses/2025-04-23_safety-system-framework-neurodivergent-couples.md) - 2025-04-25
 
 ## spoon-theory
 
