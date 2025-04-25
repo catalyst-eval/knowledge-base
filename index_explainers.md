@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Explainer Articles Index"
+permalink: /explainers/
+---
+
 # Explainer Articles Index
 
 This index organizes comprehensive explainer articles by category. These explainers synthesize information from multiple transcript analyses to provide in-depth resources on key clinical concepts, complete with client-friendly explanations, therapeutic approaches, and case examples.
