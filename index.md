@@ -1,8 +1,8 @@
-# Neurodiversity-Affirming Clinical Knowledge Base
+# Clinical Transcript Analysis Index
 
-This site contains transcript analyses and clinical explainers organized for easy navigation.
+This index organizes transcript analyses by different categories for easy navigation.
 
-## Browse Transcript Analyses by Category
+## Browse by Category
 
 - [Conceptual Frameworks](index_concepts.md)
 - [Neurotype](index_neurotype.md)
@@ -10,10 +10,6 @@ This site contains transcript analyses and clinical explainers organized for eas
 - [Presenting Issues](index_presenting_issue.md)
 - [Metaphors and Explanatory Tools](index_metaphors.md)
 - [Practical Strategies](index_strategies.md)
-
-## Clinical Explainer Articles
-
-Browse our [comprehensive explainer articles](index_explainers.md) synthesizing information from multiple transcripts into clinically useful resources.
 
 ## All Analyses
 
